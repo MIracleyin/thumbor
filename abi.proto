@@ -1,4 +1,3 @@
-
 syntax = "proto3";
 
 package abi; // 这个名字会被用作编译结果，prost 会产生：abi.rs
