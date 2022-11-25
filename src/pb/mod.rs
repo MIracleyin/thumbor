@@ -93,7 +93,7 @@ impl Spec {
 mod tests {
     use super::*;
     use std::borrow::Borrow;
-    use std::convert::TryInto;
+    // use std::convert::TryInto;
 
     #[test]
     fn encoded_spec_could_be_decoded() {
